@@ -15,7 +15,7 @@
 - From freeCodeCamp.org as well [Build a Chrome Extension – Course for Beginners](https://www.youtube.com/watch?v=0n809nd4Zu4).
 - To gain a better understanding [Google Chrome Extensions: How to build an extension](https://www.youtube.com/watch?v=e3McMaHvlBY&t=1s).
 - [Extensions Documentation](https://developer.chrome.com/docs/extensions/) from Chrome Developers.
-- [](https://dictionaryapi.dev/)
+- [Free Dictionary API](https://dictionaryapi.dev/)
 - Icons from [icons8](https://icons8.com/).
 
 ## How does the extension work?
