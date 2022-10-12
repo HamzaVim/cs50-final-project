@@ -79,7 +79,7 @@ and it's used to refresh the page.
 
 - **onDelete**: when the user clicks the delete button the function will start and it will filter the bookmarks, that means that it will delete the word from `allBookmarks` variable and use `setBookmarks()` to it, which means it will set the new bookmarks after deleting it and remove the container, and use `checkBookmarks()` function as a refresh to the page.
 ## How to use the extension
-I'd like to upload it to the Chrome Web Store, but I simply cannot afford it so :relaxed:
+I'd like to upload it to the Chrome Web Store, but I simply cannot afford it so :relaxed:<br>
 You can download it from GitHub; after that, open Google Chrome.<br>At the top right, click Extensions and click ***Manage extension***, and then activate ***Developer mode***, and then click ***Load unpacked***, and select the extension file.
 #
 ### I wanted to thank [Grammarly](https://app.grammarly.com/) for fixing my English grammar.
