@@ -1,5 +1,4 @@
 # CS50 Final Project - Dictionary extension
-#### Video Link:  <URL HERE>
 #### Selecting (highlighting) a word on any website, will give a definition, and also a phonetic, identification, and an example.
 #### It can also be saved as a bookmark.
 
