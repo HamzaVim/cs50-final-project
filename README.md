@@ -82,5 +82,5 @@ and it's used to refresh the page.
 I'd like to upload it to the Chrome Web Store, but I simply cannot afford it so :relaxed:.<br>
 You can download it from GitHub; after that, open Google Chrome.<br>At the top right, click Extensions and click ***Manage extension***, and then activate ***Developer mode***, and then click ***Load unpacked***, and select the extension file.
 #
-### I wanted to thank [Grammarly](https://app.grammarly.com/) for fixing my English grammar.
-### In the end, I enjoyed this experience of learning programming and problem-solving from **HarvardX**, so thank you very much and thank you Dr.**David J. Malan**.
+I wanted to thank [Grammarly](https://app.grammarly.com/) for fixing my English grammar.<br>
+In the end, I enjoyed this experience of learning programming and problem-solving from **HarvardX**, so thank you very much and thank you Dr.**David J. Malan**.
